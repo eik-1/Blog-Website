@@ -119,6 +119,31 @@ label {
     outline: 0;
 }
 
+/*Contact Me*/
+.container-contact {
+    position: relative;
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.container-contact figure {
+    display: inline-block;
+    position: relative;
+    margin: 0 2rem;
+}
+
+.container-contact i {
+    font-size: 4rem;
+    color: #1A0000;
+}
+
+.container-contact figcaption {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    display: block;
+}
+
+
 @media (min-width: 768px) {
     .button {
         padding: 0 40px;
